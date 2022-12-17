@@ -1,0 +1,23 @@
+p {
+  color: red;
+}
+
+#ppout {
+  height: 3px;
+  width: 78%;
+  /* background-color: red; */
+  display: none;
+}
+
+.eye {
+  color: black;
+  cursor: pointer;
+}
+
+#viewPass {
+  float: right;
+}
+
+span {
+  color: green;
+}
